@@ -6,4 +6,4 @@ Aaron Chiuwei
 <br>
 <br>Graceful degradation starts with max technology and focuses on functionality. This is related to Service Workers as it keeps the functionality of the web app when network is unavailible. Service workers gracefully degrade the app by providing cached content, keeping offline functionality and serving as a fail-safe.
 <br>
-<br>![PWA Screenshot](https://github.com/aaronchiuwei/Lab8_Starter/blob/main/pwa.png)
+<br>![PWA Screenshot](pwa.png)
